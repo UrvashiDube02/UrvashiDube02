@@ -15,11 +15,11 @@
 
 - 🌱 I’m currently learning **MS EXCEL, Mysql, Python, Tableau, Power BI, AWS**
 
-- 👨‍💻 All of my projects are available at [Sudhishsubramaniam.com](Sudhishsubramaniam.com)
+- 👨‍💻 All of my projects are available at urvashidube.com
 
 - 💬 Ask me about **Data Analytics, Data Science, Machine Learning, Artificial Intelligence**
 
-- 📫 How to reach me **subramaniamsudhish3@gmail.com**
+- 📫 How to reach me **urvashidube208@gmail.com**
   
 - ⚡ Fun fact **I am an ambivert and love to watch movies and shows.**
 
