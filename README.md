@@ -5,7 +5,7 @@
 <h1 align="left">Data Analyst</h1>
 
 <h3 align="left">About Me</h3>
-<h4 align="left">Paragraph About Me</h4>
+<h4 align="justify">I am an accomplished Data Analyst with over 3 years of experience, leveraging a blend of business acumen and technical proficiency to drive strategic decisions. Armed with a master’s degree in Data Analytics and a foundation in computer science, I specialize in converting data into actionable insights. My expertise spans Python, R, and SQL, and encompasses hypothesis testing, regression analysis, and neural networks. I honed my skills during a year-long data analyst internship, where I became adept in AWS, Azure, Python, R, and SQL. My capabilities encompass ETL processes, database management, as well as creating impactful visualizations using Power BI and Tableau. Adept at agile problem-solving and learning in fast-paced environments, my career focus centres on innovative, data-driven solutions that shape the future.</h4>
 
 <br>
 
